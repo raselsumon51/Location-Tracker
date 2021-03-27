@@ -38,7 +38,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private final long MIN_DIST = 5;
     private EditText editTextLatitude;
     private EditText editTextLongitude;
-//
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
