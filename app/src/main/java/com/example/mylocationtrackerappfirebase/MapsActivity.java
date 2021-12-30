@@ -124,7 +124,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             public void onStatusChanged(String provider, int status, Bundle extras) {
 
             }
-
+            /hij cdjd
             @Override
             public void onProviderEnabled(String provider) {
 
@@ -158,7 +158,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             e.printStackTrace();
         }
 
-        //hello
+        //hello dmjnfkjndn
 
 
     }
